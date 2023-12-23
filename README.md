@@ -1,5 +1,5 @@
 # ios-apps
-iPhone and iPad apps I developed in 2008-2012:
+This repository documents some ancient history about iPhone and iPad apps I developed in 2008-2012:
 
 * Snatch (iPhone remote control app, sold on the App Store in 2008-2012 under the developer name Hoofien)
   * [Review of Snatch on MacWorld](https://www.macworld.com/article/195696/snatch.html)
