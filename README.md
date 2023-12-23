@@ -5,10 +5,10 @@ This repository documents some ancient history about iPhone and iPad apps I deve
 
   * Here is the Snatch app icon and some screenshots:
 
-  <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-icon.jpg?raw=true" width=180>
-  <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot1.jpeg?raw=true" width=180>
-  <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot2.jpeg?raw=true" width=180>
-  <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot3.jpg?raw=true" width=180>
+    <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-icon.jpg?raw=true" width=180>
+    <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot1.jpeg?raw=true" width=180>
+    <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot2.jpeg?raw=true" width=180>
+    <img src="https://github.com/danromik/ios-apps/blob/main/images/snatch-screenshot3.jpg?raw=true" width=180>
 
   * [Review of Snatch on MacWorld](https://www.macworld.com/article/195696/snatch.html)
   * [Review of Snatch on TechCrunch](https://techcrunch.com/2009/01/20/iphone-app-review-snatch/)
